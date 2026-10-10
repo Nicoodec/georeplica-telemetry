@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+work/
+mdl/
+*.npy
+pose_raw.json
+cands.json
+tracks_raw.json
+tracks.json
+limbs.json
